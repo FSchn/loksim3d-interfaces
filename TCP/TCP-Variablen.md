@@ -74,7 +74,7 @@ Benötigt man einen Teil der TCP-Schnittstelle die (derzeit) im Loksim nicht umg
 | 2621 | 0A3D | Schalter Sifa | Nein | Herunterdrücken eines Sifa-Knopfes |
 | 2622 | 0A3E | Schalter Hauptschalter | Nein | |
 | 2623 | 0A3F | Schalter Motor ein/aus | Nein | |
-| 2624 | 0A40 | Schalter Fahrtrichtung | Ausstehend | |
+| 2624 | 0A40 | Schalter Fahrtrichtung | Ausstehend | 0: Vorwärts, 1: Neutral, 2: Rückwärts |
 | 2625 | 0A41 | Schalter Pfeife | Nein | Herunterdrücken des Pfeiftasters |
 | 2626 | 0A42 | Schalter Sanden | Nein | |
 | 2627 | 0A43 | Schalter Türen | Nein | |
